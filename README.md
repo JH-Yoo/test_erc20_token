@@ -3,6 +3,7 @@
 Ethereum ERC20 token test code
 
 ### Stack
+- solidity(0.4.24)
 - truffle
 - ganache-cli
 - openzeppelin-solidity
